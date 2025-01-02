@@ -1,5 +1,5 @@
-import Image from "next/image";
-import Navbar from "./components/navbar";
+// import Image from "next/image";
+// import Navbar from "./components/navbar";
 import List from "./components/list";
 
 
