@@ -2,7 +2,7 @@ import List from "./components/list";
 import Belowvideo from "./components/belowvideo";
 import Belowlist from "./components/belowlist";
 import Abovefooter from "./components/abovefooter";
-import Footer from "./components/footer";
+// import Footer from "./components/footer";
 
 export default function Home() {
   return (
@@ -11,7 +11,7 @@ export default function Home() {
         <div className="relative w-full" style={{ height: 'calc(100vh - 80px)' }}>
           <video
             className="w-full h-full object-cover"
-            src="/video.mp4" // Ensure the path is correct
+            src="/video2.mp4" // Ensure the path is correct
             autoPlay
             loop
             muted
@@ -41,7 +41,7 @@ export default function Home() {
           <Abovefooter />
         </div>
       </div>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
