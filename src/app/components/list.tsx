@@ -52,7 +52,7 @@ export default function Home() {
       <div className="relative group">
         <Image
           className="pl-10 group-hover:hidden"
-          src="/brown.webp"
+          src="/Woman/wo.webp"
           alt="Next.js logo"
           width={500}
           height={680}
@@ -60,7 +60,7 @@ export default function Home() {
         />
         <Image
           className="pl-10 hidden group-hover:block"
-          src="/black.webp"
+          src="/Woman/wo1.webp"
           alt="Next.js logo"
           width={500}
           height={680}
@@ -75,7 +75,7 @@ export default function Home() {
       <div className="relative group">
         <Image
           className="pl-10 group-hover:hidden"
-          src="/chel.webp"
+          src="/Woman/woma1.webp"
           alt="Next.js logo"
           width={500}
           height={680}
@@ -83,7 +83,7 @@ export default function Home() {
         />
         <Image
           className="pl-10 hidden group-hover:block"
-          src="/suede.webp"
+          src="/Woman/woma.webp"
           alt="Next.js logo"
           width={500}
           height={680}

@@ -6,7 +6,7 @@ function WoMan() {
     <div className="flex justify-between items-center">
       <div className="relative group">
         <Image
-          className="pl-10 group-hover:hidden"
+          className="pl-10 "
           src="/Woman/w.webp"
           alt="Next.js logo"
           width={500}
@@ -29,7 +29,7 @@ function WoMan() {
 
       <div className="relative group">
         <Image
-          className="pl-10 group-hover:hidden"
+          className="pl-10 "
           src="/Woman/wo.webp"
           alt="Next.js logo"
           width={500}
@@ -52,7 +52,7 @@ function WoMan() {
 
       <div className="relative group">
         <Image
-          className="pl-10 group-hover:hidden"
+          className="pl-10 "
           src="/Woman/wom.webp"
           alt="Next.js logo"
           width={500}
@@ -75,7 +75,7 @@ function WoMan() {
 
       <div className="relative group">
         <Image
-          className="pl-10 group-hover:hidden"
+          className="pl-10 "
           src="/Woman/woma.webp"
           alt="Next.js logo"
           width={500}

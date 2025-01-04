@@ -2,6 +2,7 @@ import List from "./components/list";
 import Belowvideo from "./components/belowvideo";
 import Belowlist from "./components/belowlist";
 import Abovefooter from "./components/abovefooter";
+import Link from "next/link";
 // import Footer from "./components/footer";
 
 export default function Home() {
@@ -20,8 +21,8 @@ export default function Home() {
             <h1 className="text-4xl font-bold mb-4">WINTER MAGIC</h1>
             <p className="text-2xl mb-4">Santoni invites you into the wonder of winter</p>
             <div className="flex space-x-4">
-              <button className="underline text-white px-4 py-2 rounded">FOR HIM</button>
-              <button className="underline text-white px-4 py-2 rounded">FOR HER</button>
+              <Link href='/MAN'><button className="underline text-white px-4 py-2 rounded">FOR HIM</button></Link>
+              <Link href='/WOMAN'><button className="underline text-white px-4 py-2 rounded">FOR HER</button></Link>
             </div>
           </div>
         </div>
