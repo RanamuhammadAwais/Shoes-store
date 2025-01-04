@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 function BelowVideo() {
   return (
-    <div className="flex justify-between items-center w-full bg-blue-50">
+    <div className="flex justify-between items-center w-full bg-white-50 ">
       <Image
         className="m-2"
         src="/mocasions.webp"
