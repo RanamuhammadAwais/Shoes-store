@@ -13,14 +13,15 @@ function WoMan() {
           height={680}
           priority
         />
-        <Image
-          className="pl-10 hidden group-hover:block"
+        {/* <Image
+          className="pl-10 "
+          // hidden group-hover:block
           src="/Woman/w1.webp"
           alt="Next.js logo"
           width={500}
           height={680}
           priority
-        />
+        /> */}
         <div className="mt-4 text-center">
           <p>Man Gray Chelsea Shoe</p>
           <p className="text-md text-gray-500">Price: $500</p>
@@ -36,14 +37,14 @@ function WoMan() {
           height={680}
           priority
         />
-        <Image
+        {/* <Image
           className="pl-10 hidden group-hover:block"
           src="/Woman/wo1.webp"
           alt="Next.js logo"
           width={500}
           height={680}
           priority
-        />
+        /> */}
         <div className="mt-4 text-center">
           <p>Man Gray Chelsea Shoe</p>
           <p className="text-md text-gray-500">Price: $500</p>
@@ -59,14 +60,14 @@ function WoMan() {
           height={680}
           priority
         />
-        <Image
+        {/* <Image
           className="pl-10 hidden group-hover:block"
           src="/Woman/wom1.webp"
           alt="Next.js logo"
           width={500}
           height={680}
           priority
-        />
+        /> */}
         <div className="mt-4 text-center">
           <p>Man Gray Chelsea Shoe</p>
           <p className="text-md text-gray-500">Price: $500</p>
@@ -82,14 +83,14 @@ function WoMan() {
           height={680}
           priority
         />
-        <Image
+        {/* <Image
           className="pl-10 hidden group-hover:block"
           src="/Woman/woma1.webp"
           alt="Next.js logo"
           width={500}
           height={680}
           priority
-        />
+        /> */}
         <div className="mt-4 text-center">
           <p>Man Gray Chelsea Shoe</p>
           <p className="text-md text-gray-500">Price: $500</p>
