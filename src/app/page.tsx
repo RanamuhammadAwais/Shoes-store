@@ -81,7 +81,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div className="min-h-screen">
-      <div className="flex flex-col items-center mt-2 w-full bg-white">
+      <div className="flex flex-col items-center mt-2 w-full bg-white ">
         {/* Video Section */}
         <div className="relative w-full" style={{ height: 'calc(100vh - 80px)' }}>
           <video
@@ -110,7 +110,7 @@ export default function Home() {
         </div>
 
         {/* Below Video Section */}
-        <div className="w-full mt-4 px-2 md:px-8">
+        <div className="relative w-full mt-4 px-2 md:px-8">
           <Belowvideo />
         </div>
 
